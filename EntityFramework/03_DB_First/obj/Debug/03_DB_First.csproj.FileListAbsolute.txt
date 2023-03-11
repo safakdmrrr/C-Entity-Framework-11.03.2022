@@ -1,0 +1,16 @@
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\03_DB_First.exe.config
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\03_DB_First.exe
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\03_DB_First.pdb
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\EntityFramework.dll
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\EntityFramework.xml
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\_03_DB_First.Form1.resources
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\_03_DB_First.Properties.Resources.resources
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.csproj.CopyComplete
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.exe
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1-2.Hafta\EntityFramework\03_DB_First\obj\Debug\03_DB_First.pdb

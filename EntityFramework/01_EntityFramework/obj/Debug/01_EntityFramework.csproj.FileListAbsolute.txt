@@ -1,0 +1,13 @@
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\01_EntityFramework.exe.config
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\01_EntityFramework.exe
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\01_EntityFramework.pdb
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\obj\Debug\01_EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\obj\Debug\01_EntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\obj\Debug\01_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\obj\Debug\01_EntityFramework.exe
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\obj\Debug\01_EntityFramework.pdb
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre\source\repos\YAZILIMUZMANLIGI_10-13_17.09\WEB YAZILIM\1.Hafta\EntityFramework\01_EntityFramework\obj\Debug\01_EntityFramework.csproj.CopyComplete
